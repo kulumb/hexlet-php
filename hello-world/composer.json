@@ -1,0 +1,15 @@
+{
+    "name": "levik/hello-world",
+    "autoload": {
+        "psr-4": {
+            "Levik\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kulumbekov Levan",
+            "email": "kulumbekov-leo@yandex.ru"
+        }
+    ],
+    "require": {}
+}
