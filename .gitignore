@@ -1,0 +1,6 @@
+vendor/
+/php-package
+.idea
+.DS_Store
+.vscode
+
